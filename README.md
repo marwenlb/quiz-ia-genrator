@@ -19,7 +19,7 @@ This is a Next.js application for generating AI-powered quizzes, bootstrapped wi
 ### Installation Steps
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/marwenlb/quiz-ia-genrator
 cd quiz-ai-generator
 ```
 
